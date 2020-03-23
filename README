@@ -1,0 +1,15 @@
+*** This project has had credentials to authenticate into the FHIR API removed, so it will not work out of the box***
+
+This is a project to create an augmented reality clipboard.
+It was built using Unity 2019.3.0f6 and AR Foundation 3
+If you have the above Unity version installed, you can open the project in Unity. 
+Choose Android in Build Settings, plug in your android device, then Build and Run
+You may see some errors which require you to change settings, go to Build Settings > Player Settings > Android and change as appropriate
+AR applications only work with ARCore enabled devices (See here: https://developers.google.com/ar/discover/supported-devices) and with Android 7.0 (Nougat) and later 
+
+You need to print or display the provided GOSH-FULL-COLOUR logo (in the Assets folder) on a piece of paper or a screen.
+When you point the device at the logo, the clipboard will appear.
+If you want to change the trigger image, you can do so by editing the TrackedImageLibrary in the Unity Editor and dragging in a new image.
+
+If you don't have Unity, you can build the provided apk onto an android device seperately.
+This varies depending on device. More information can be found here: https://www.androidpit.com/android-for-beginners-what-is-an-apk-file#howto
