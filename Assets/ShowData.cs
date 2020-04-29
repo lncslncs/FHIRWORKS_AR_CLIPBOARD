@@ -1,4 +1,4 @@
-﻿//Lilly Neubauer FHIRWorks Project
+﻿//Lilly Sinek FHIRWorks Project
 //Gets data from FHIRConnection script and displays on textMeshPro that is attached to the plane prefab that follows the tracked AR image
 
 using System.Collections;

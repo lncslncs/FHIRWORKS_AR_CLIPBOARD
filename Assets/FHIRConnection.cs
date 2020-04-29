@@ -1,4 +1,4 @@
-﻿//Lilly Neubauer FHIRWorks Project
+﻿//Lilly Sinek FHIRWorks Project
 //Connects to the FHIR API and does some basic JSON parsing to prepare data for display
 //Listens for patient ID provided in text input field and fetches data object
 
